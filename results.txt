@@ -1,0 +1,83 @@
+Questio 4.3   ---    PART A
+==============================
+
+PML(w = MILLION) = 0.00207276
+PML(w = MORE) = 0.00170890
+PML(w = MR.) = 0.00144161
+PML(w = MOST) = 0.00078792
+PML(w = MARKET) = 0.00078037
+PML(w = MAY) = 0.00072990
+PML(w = M.) = 0.00070341
+PML(w = MANY) = 0.00069673
+PML(w = MADE) = 0.00055986
+PML(w = MUCH) = 0.00051460
+PML(w = MAKE) = 0.00051446
+PML(w = MONTH) = 0.00044491
+PML(w = MONEY) = 0.00043711
+PML(w = MONTHS) = 0.00040576
+PML(w = MY) = 0.00040032
+PML(w = MONDAY) = 0.00038199
+PML(w = MAJOR) = 0.00037089
+PML(w = MILITARY) = 0.00035205
+PML(w = MEMBERS) = 0.00033606
+PML(w = MIGHT) = 0.00027359
+PML(w = MEETING) = 0.00026574
+PML(w = MUST) = 0.00026651
+PML(w = ME) = 0.00026357
+PML(w = MARCH) = 0.00025979
+PML(w = MAN) = 0.00025288
+PML(w = MS.) = 0.00023899
+PML(w = MINISTER) = 0.00023977
+PML(w = MAKING) = 0.00021170
+PML(w = MOVE) = 0.00020996
+PML(w = MILES) = 0.00020597
+
+
+Questio 4.3   ---    PART B
+=========================================
+
+PML(w' = HUNDRED|w = ONE) = 0.20906051
+PML(w' = <UNK>|w = ONE) = 0.12430405
+PML(w' = .POINT|w = ONE) = 0.09995235
+PML(w' = OF|w = ONE) = 0.07394706
+PML(w' = THOUSAND|w = ONE) = 0.06865436
+PML(w' = MILLION|w = ONE) = 0.03183153
+PML(w' = ,COMMA|w = ONE) = 0.03162178
+PML(w' = -HYPHEN|w = ONE) = 0.03047934
+PML(w' = HALF|w = ONE) = 0.02913936
+PML(w' = .PERIOD|w = ONE) = 0.02437614
+
+
+Questio 4.3   ---    PART C
+===================================
+
+Lu part c) = -57.20
+Lb part c) = -38.10
+
+The biagram model yields the highest log likelihood.
+
+
+Questio 4.3   ---    PART D
+=====================================
+
+Lu part d) = -44.24
+Lb part d) = 0.00
+
+Fourteen Officials. It has the effect that the likelihood is zero, therefore it can't happen.
+
+Questio 4.3   ---    PART E
+=====================================
+
+Lambda = 0.00 AND Lm = -44.24
+Lambda = 0.10 AND Lm = -39.81
+Lambda = 0.20 AND Lm = -35.39
+Lambda = 0.30 AND Lm = -30.97
+Lambda = 0.40 AND Lm = -26.54
+Lambda = 0.50 AND Lm = -22.12
+Lambda = 0.60 AND Lm = -17.69
+Lambda = 0.70 AND Lm = -13.27
+Lambda = 0.80 AND Lm = -8.85
+Lambda = 0.90 AND Lm = -4.42
+Lambda = 1.00 AND Lm = -0.00
+
+Optimal Value = -4.42
