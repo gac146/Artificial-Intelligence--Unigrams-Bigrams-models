@@ -1,3 +1,8 @@
+/*
+ * Author: Gustavo Carbone
+ * Date: 05/05/2017
+ */
+
 package hw4;
 
 import java.io.BufferedReader;
